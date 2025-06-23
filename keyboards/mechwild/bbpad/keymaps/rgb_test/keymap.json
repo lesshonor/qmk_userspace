@@ -1,0 +1,25 @@
+{
+    "keyboard": "mechwild/bbpad/f401",
+    "keymap": "rgb_test",
+    "version": 1,
+    "layout": "LAYOUT",
+    "layers": [
+        [
+                                         "RGB_TOG",
+        "RGB_HUI", "RGB_SAI", "RGB_VAI", "RGB_SPI",
+        "RGB_HUD", "RGB_SAD", "RGB_VAD", "RGB_SPD",
+        "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS",
+        "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS",
+        "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"
+        ]
+    ],
+    "config": {
+        "features": {
+            "combo": false,
+            "encoder_map": true
+        }
+    },
+    "encoders": [
+		[{"ccw": "RGB_RMOD", "cw": "RGB_MOD"}]
+	]
+}

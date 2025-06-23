@@ -1,4 +1,12 @@
 {
     "userspace_version": "1.0",
-    "build_targets": []
+    "build_targets": [
+        ["projectcain/vault35/rp2040/wkl", "lesshonor"],
+        ["eyeohdesigns/humble40", "lesshonor"],
+        ["mechwild/bbpad/f401", "rgb_test"],
+        ["mechwild/mercutio", "lesshonor"],
+        ["mechwild/clunker", "lesshonor"],
+        ["eyeohdesigns/babyv", "lesshonor"]
+        ["tominabox1/le_chiffre", "lesshonor"]
+    ]
 }
