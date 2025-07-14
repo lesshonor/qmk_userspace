@@ -12,6 +12,7 @@ jobs:
     with:
       qmk_repo: qmk/qmk_firmware
       qmk_ref: develop
+      preparation_command: qmk doctor
 
   publish:
     name: 'QMK Userspace Publish'
